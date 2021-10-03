@@ -12,7 +12,7 @@ Our first assignment is to find the number of retiring employees per title.
 
 Using the code below, we created a Retirement Titles table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955.
 
-![
+![](Queries/Capture1.PNG)
 
 The results from our first code show that there are duplicate entries for some employees because they have switched titles over the years. We used the following query to remove the duplicates and keep only the most recent title for each employee. 
 
