@@ -16,11 +16,11 @@ Using the code below, we created a Retirement Titles table that holds all the ti
 
 The results from our first code show that there are duplicate entries for some employees because they have switched titles over the years. We used the following query to remove the duplicates and keep only the most recent title for each employee. 
 
-![
+![](Queries/Capture2.PNG)
 
 We then retrieved the number of employees by their most recent job title who are about to retire using the following query. 
 
-![
+![](Queries/Capture3.PNG)
 
 The key results that we would like to keep in mind are: 
 
@@ -33,7 +33,7 @@ Our second assignment is to identify employees who are eligible to participate i
 
 We had to create a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program using the following query. 
 
-![
+![](Queries/Capture4.PNG)
 
 As a result, we find a total of 1,549 employees are eligeable to participate in the mentorship program. 
 
