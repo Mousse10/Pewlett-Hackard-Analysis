@@ -45,11 +45,11 @@ We had to create a Mentorship Eligibility table that holds the employees who are
 
 In the end, 90,398 total employees or roles will need to be filled as the "silver tsunami" begins to make an impact. The following query was used to find these results.
 
-![]
+![](Queries/Capture5.PNG)
 
 Upon further review, there is a total of 1,549 employees that are eligible for the mentorship program which is not enough to mentor the next generation of Pewlett Hackard employes. The following query was used to find this total. 
 
-![]
+![](Queries/Capture6.PNG)
 
 If we assume that they will all be willing to participate in the mentorship program, it will imply that each mentor would have an average of 58 mentees, so we can conclude that there is not enough mentors to prepare the next generation of Pewlett Hackard employees. It is critical that the company must create a strategy on how to train the new employees quickly and balance the number of mentors.
 
