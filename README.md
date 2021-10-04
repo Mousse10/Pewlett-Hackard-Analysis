@@ -24,8 +24,10 @@ We then retrieved the number of employees by their most recent job title who are
 
 The key results that we would like to keep in mind are: 
 
-- Total of 90,398 will be retiring in the near future.
-- 29,415 Senior Engineers, 28,254 Senior Staff, 14,222 Engineers, 12,243 Staffs, 4,502 Technical Leaders, 1,761 Assistant Engineers and 2 Managers. 
+- The Retirement Titles table provides a total of 133,776 rows.
+- The retiring titles identified are Senior Engineers, Senior Staff, Engineers, Staffs, Technical Leaders, Assistant Engineers and Managers.
+- The unique numbers for each title above, removing the duplicates are 29,415, 28,254, 14,222, 12,243, 4,502, 1,761 and 2.
+- The total of employees retiring in the near future is 90,398. 
 
 ### Employees Eligible for Mentorship Program
 
